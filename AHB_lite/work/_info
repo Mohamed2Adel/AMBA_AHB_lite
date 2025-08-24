@@ -1,0 +1,188 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital-course-Ali-Eltemsah/assignments/assignment4.1
+T_opt
+!s110 1753516514
+V_0U`?]OVZ4@K1UBgVk[Ee0
+04 6 4 work AHB_tb fast 0
+=1-c025a55ca453-688489e1-3d4-1984
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vAHB_Decoder
+Z2 !s110 1753516484
+!i10b 1
+!s100 ROAI2dR?Hk_JMYnP>82d:1
+Il3gfE`z6:A`Z>oi`m=lL:1
+Z3 dD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite
+w1753516319
+8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v
+FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v
+!i122 78
+L0 1 20
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1753516484.000000
+!s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@h@b_@decoder
+vAHB_Master
+R2
+!i10b 1
+!s100 ORWgWVjUhbIOFd?:<RZTX2
+I3nPAJQPRQIC8F2fDBIAVD2
+R3
+w1753516295
+8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v
+FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v
+!i122 79
+L0 1 150
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v|
+!i113 0
+R7
+R1
+n@a@h@b_@master
+vAHB_MUX
+Z8 !s110 1753516485
+!i10b 1
+!s100 j8::_o?gObNS<FP3CGIRH1
+IXI1lMPHH7bj10@fVgFL4N2
+R3
+w1753516263
+8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v
+FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v
+!i122 83
+L0 1 30
+R4
+R5
+r1
+!s85 0
+31
+Z9 !s108 1753516485.000000
+!s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v|
+!i113 0
+R7
+R1
+n@a@h@b_@m@u@x
+vAHB_Slave1
+!s110 1753378718
+!i10b 1
+!s100 _5;eb18]2olZHSX1=j<6S3
+Ilaz;iBn_ibJB549FRohBf2
+R3
+w1753365782
+Z10 8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v
+Z11 FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v
+!i122 20
+L0 99 78
+R4
+R5
+r1
+!s85 0
+31
+!s108 1753378718.000000
+Z12 !s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v|
+!i113 0
+R7
+R1
+n@a@h@b_@slave1
+vAHB_Slave_1
+R2
+!i10b 1
+!s100 jiga<bLW6T6@>j`BnBXPi2
+IfLSYbhNf[XoEhc[1W^?km0
+R3
+w1753516244
+R10
+R11
+!i122 80
+L0 2 78
+R4
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 0
+R7
+R1
+n@a@h@b_@slave_1
+vAHB_tb
+R8
+!i10b 1
+!s100 k@O[QhJ5P9o:4l9lReh9j0
+Io=ZNTJ:Xb=KB2BHk6he]53
+R3
+w1753516480
+8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v
+FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v
+!i122 81
+L0 2 265
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v|
+!i113 0
+R7
+R1
+n@a@h@b_tb
+vAHB_TOP
+R8
+!i10b 1
+!s100 :T:^]D@0VjFnl:mlk8BFL3
+IDO?naVB0lP3m8TXbf?F0n2
+R3
+w1753516189
+8D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v
+FD:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v
+!i122 82
+L0 2 90
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v|
+!i113 0
+R7
+R1
+n@a@h@b_@t@o@p

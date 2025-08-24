@@ -1,0 +1,43 @@
+D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_tb
+
+Top level modules:
+	AHB_tb
+
+} {} {}} D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_decoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_Decoder
+
+Top level modules:
+	AHB_Decoder
+
+} {} {}} D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_top.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_TOP
+
+Top level modules:
+	AHB_TOP
+
+} {} {}} D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_slave1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_Slave_1
+
+Top level modules:
+	AHB_Slave_1
+
+} {} {}} D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/MUX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_MUX
+
+Top level modules:
+	AHB_MUX
+
+} {} {}} D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v {1 {vlog -work work -vopt -stats=none D:/ADI_intern/Assignments_Fatma_Ali/AHB_lite/AHB_lite_master.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_Master
+
+Top level modules:
+	AHB_Master
+
+} {} {}}
